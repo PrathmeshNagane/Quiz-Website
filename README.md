@@ -1,4 +1,17 @@
-# Project1
+# 
+Project Description
+This project is a dynamic and interactive quiz web application developed using Angular. It aims to provide users with a seamless and engaging quiz experience. The application includes the following key features:
+
+Features
+Instructions Page: A front page detailing the quiz instructions, including the time allotted for each question and the total number of questions.
+User Input: A field for users to enter their name before starting the quiz, personalizing the experience.
+Timed Questions: Each question is timed, with a 1-minute limit per question, enhancing the challenge and excitement.
+Quiz Structure: The quiz consists of a total of 10 questions, providing a concise yet comprehensive test of the user's knowledge.
+Result Display: After completing or submitting the quiz, the application displays a detailed result summary, including the number of questions attempted, skipped, and the final score.
+Technologies Used
+Angular: A robust framework for building dynamic web applications.
+HTML/CSS: For structuring and styling the web pages.
+JavaScript/TypeScript: For implementing interactive and dynamic functionalities.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.8.
 
