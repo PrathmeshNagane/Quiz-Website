@@ -1,5 +1,4 @@
-# 
-Project Description
+# Project Description
 This project is a dynamic and interactive quiz web application developed using Angular. It aims to provide users with a seamless and engaging quiz experience. The application includes the following key features:
 
 Features
